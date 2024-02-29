@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-class Car {1
+class Car {
     private String carId;
     private String brand;
     private String model;
